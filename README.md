@@ -63,13 +63,9 @@ This is the link to different themes for future reference, https://github.com/an
 -->
 ## Current Open-Source Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engine3d-dev&repo=engine3d&theme=tokyonight)](https://github.com/engine3d-dev/TheAtlasEngine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Engine3D-Editor&theme=tokyonight)](https://github.com/SpinnerX/Engine3D-Editor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Renderer-OpenGL&theme=tokyonight)](https://github.com/SpinnerX/Renderer-OpenGL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrparmesan01&repo=frame-graph-term-project-hpc&theme=tokyonight)](https://github.com/mrparmesan01/frame-graph-term-project-hpc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrparmesan01&repo=Engine3D-Editor&theme=tokyonight)](https://github.com/SpinnerX/Engine3D-Editor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engine3d-dev&repo=vulkan-cpp&theme=tokyonight)](https://github.com/engine3d-dev/vulkan-cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=urc-intelligent-systems-2023&theme=tokyonight)](https://github.com/SJSURoboticsTeam/urc-intelligent-systems-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=mini-engine-vulkan&theme=tokyonight)](https://github.com/SpinnerX/Mini-Engine-Vulkan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=display-driver-arduino&theme=tokyonight)](https://github.com/SpinnerX/display-driver-arduino)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=display-driver-stm32f4xx&theme=tokyonight)](https://github.com/SpinnerX/display-driver-stm32f4xx)
 
 <!--
 **SpinnerX/SpinnerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
